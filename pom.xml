@@ -13,5 +13,6 @@
         <module>service-registry-server</module>
         <module>book-service</module>
         <module>store-service</module>
+        <module>hystrix-dashboard</module>
     </modules>
 </project>
